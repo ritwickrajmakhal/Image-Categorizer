@@ -8,7 +8,7 @@
 
 ## Screenshots 📷
 
-<p align="center"><img src="Screenshots\mainWindow.png"></p>
+![mainWindow](https://github.com/user-attachments/assets/62c4cf5f-d7e8-4c6e-9d91-4e86b49c6471)
 
 ## Tech Used 💻
 
